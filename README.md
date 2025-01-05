@@ -1,1 +1,29 @@
-# html-css-oppgave1
+Mål:
+I denne oppgaven skal du lage en enkel nettside ved å bruke de grunnleggende HTML- og CSS-ferdighetene du har lært så langt. Formålet er å se hva du allerede kan, og hvordan du bruker HTML og CSS for å lage en fungerende nettside.
+
+Krav:
+
+HTML Struktur:
+
+Lag en enkel nettside med de viktigste HTML-elementene. Sørg for å inkludere en header (topp), en hoveddel (main content), og en footer (bunn).
+Bruk grunnleggende HTML-struktur som overskrifter (<h1>, <h2>, osv.), avsnitt (<p>), og bilder (<img>).
+CSS Styling:
+
+Bruk CSS til å style nettsiden din.
+Prøv å endre bakgrunnsfarge, tekstfarge og font-størrelse.
+Bruk margin og padding for å legge til avstand rundt og inni elementene på nettsiden.
+Design:
+
+Gjør nettsiden din enkel og oversiktlig.
+Fokuser på å bruke det du har lært hittil for å lage en pent strukturert nettside med tekst og bilder.
+Ekstra Tips:
+
+Prøv å gjøre nettsiden så ryddig og oversiktlig som mulig.
+Du kan bruke Google for å finne eksempler på HTML og CSS, men husk at oppgaven handler om å bruke det du allerede kan.
+Det er ikke nødvendig å bruke avanserte CSS-teknikker – hold deg til det grunnleggende!
+Innlevering:
+
+Når du er ferdig, legg ut nettsiden din på GitHub og send oss en link til repositoryet ditt.
+Sørg for at GitHub-repositoriet inneholder:
+HTML-filen(e).
+CSS-filen(e).
